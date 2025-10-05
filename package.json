@@ -1,0 +1,22 @@
+{
+  "name": "eth-kipu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.1",
+    "@nomicfoundation/hardhat-verify": "^3.0.2",
+    "dotenv": "^17.2.3",
+    "hardhat": "^3.0.6"
+  },
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
+}

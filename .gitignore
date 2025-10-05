@@ -1,0 +1,5 @@
+﻿artifacts/
+cache/
+node_modules/
+.env
+FlatKipuBank.sol
