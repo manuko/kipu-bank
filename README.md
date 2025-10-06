@@ -15,6 +15,6 @@ Hay un "tope global" (bankCap) y se guarda saldo por dirección
 - withdraw(amount) en wei (por ejemplo: 0.0005 ETH = 500000000000000)  
 - para hacer consultas: balanceOf(addr), remainingCapacity()
 
-4) Direccion del contrato desplegado
+4) Dirección del contrato y código verificado en etherscan.
 - Contrato: 0x1719dC0E3259bB25c5837f733a5D7ebbD017D220
 - Etherscan: https://sepolia.etherscan.io/address/0x1719dC0E3259bB25c5837f733a5D7ebbD017D220
