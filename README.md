@@ -1,8 +1,8 @@
 KipuBank
 
 1) Descripción  
-Un proyecto de banco en ethereum en el que depositás y retirás (con límite fijo por transacción)
-Hay un "tope global" (bankCap) y guarda saldo por dirección
+Entrega para el curso de eth-kipu, de un proyecto de banco en ethereum en el que depositás y retirás (con un límite fijo por transacción)
+Hay un "tope global" (bankCap) y se guarda saldo por dirección
 
 2) Despliegue  
 - Crear .env`: SEPOLIA_RPC_URL=<rpc> y PRIVATE_KEY=0x<pk> 
@@ -16,5 +16,5 @@ Hay un "tope global" (bankCap) y guarda saldo por dirección
 - para hacer consultas: balanceOf(addr), remainingCapacity()
 
 4) Direccion del contrato desplegado
-Contrato: 0x1719dC0E3259bB25c5837f733a5D7ebbD017D220
-Etherscan: https://sepolia.etherscan.io/address/0x1719dC0E3259bB25c5837f733a5D7ebbD017D220
+- Contrato: 0x1719dC0E3259bB25c5837f733a5D7ebbD017D220
+- Etherscan: https://sepolia.etherscan.io/address/0x1719dC0E3259bB25c5837f733a5D7ebbD017D220
